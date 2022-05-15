@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'futura';
+  src: url('../fontes/futura-display.otf');
+}
+
+@font-face {
+  font-family: 'commando';
+  src: url('../fontes/commando.ttf')
+}
