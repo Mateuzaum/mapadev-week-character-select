@@ -8,11 +8,9 @@ O objetivo do projeto era realizar uma interface de seleção de personagem simi
 
 ## Layout original do projeto:
 
-![](src/imagens/layout.gif)
+![](src/imagens/layout_mateus.gif)
 
 *Diferente da dupla Dev em Dobro que utilizou personagens da MARVEL, para este projeto eu utilizei personagens do anime Boku no Hero Academia.*
-
-![](src/imagens/layout_mateus.gif)
 
 ## Linguagens utilizadas:
 
